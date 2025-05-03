@@ -1,4 +1,4 @@
-baseURL = 'https://awainverse.github.io/'
+baseURL = 'https://awainverse.github.io/hugo-quickstart'
 languageCode = 'en-us'
 title = 'Aaron Anderson'
 theme = 'ananke'
