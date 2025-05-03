@@ -6,3 +6,8 @@ theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"

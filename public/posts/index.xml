@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Aaron Anderson</title>
-    <link>https://awainverse.github.io/posts/</link>
+    <link>http://localhost:1313/hugo-quickstart/posts/</link>
     <description>Recent content in Posts on Aaron Anderson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://awainverse.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 May 2025 13:27:07 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-quickstart/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample Post</title>
+      <link>http://localhost:1313/hugo-quickstart/posts/sample-post/</link>
+      <pubDate>Sat, 03 May 2025 13:27:07 -0400</pubDate>
+      <guid>http://localhost:1313/hugo-quickstart/posts/sample-post/</guid>
+      <description>&lt;h2 id=&#34;title&#34;&gt;TITLE&lt;/h2&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s how I make a post!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

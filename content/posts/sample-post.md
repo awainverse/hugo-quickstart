@@ -1,9 +1,9 @@
 +++
 date = '2025-05-03T13:27:07-04:00'
-draft = true
+draft = false
 title = 'Sample Post'
 +++
 
-## TITLE
+## SUBHEADING
 
 Here's how I make a post!
